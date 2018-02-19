@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!plant_seedlings.ipynb
+
+# ...even if they are in subdirectories
+!*/
+
+.DS_Store
